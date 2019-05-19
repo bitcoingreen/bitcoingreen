@@ -1,3 +1,3 @@
 # Bitcoin Green
 
-This repository has been moved to https://github.com/bitgreen-official/bitgreen  
+This repository has been moved to https://github.com/bitgreen/bitgreen  
